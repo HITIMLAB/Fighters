@@ -1,3 +1,6 @@
 [submodule "wangxiaomo"]
 	path = wangxiaomo
 	url = git@github.com:wangxiaomo/wangxiaomo.github.com
+[submodule "hitwhwlj"]
+	path = hitwhwlj
+	url = git@github.com:hitwhwlj/hitwhwlj.github.com
